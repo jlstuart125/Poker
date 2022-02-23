@@ -1,3 +1,5 @@
+////Modified Header file from user CroCo at
+//https://codereview.stackexchange.com/questions/41810/card-and-deck-classes
 #ifndef DECK_H
 #define DECK_H
 

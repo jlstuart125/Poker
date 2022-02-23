@@ -1,3 +1,5 @@
+//Modified Implementation file from user CroCo at
+//https://codereview.stackexchange.com/questions/41810/card-and-deck-classes
 #include <stdlib.h>     /* srand, rand */
 #include "card.h"
 #include <iostream>

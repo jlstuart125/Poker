@@ -1,3 +1,6 @@
+//Modified Implementation file from user CroCo at
+//https://codereview.stackexchange.com/questions/41810/card-and-deck-classes
+
 #include <iostream>
 #include <random>
 #include <algorithm>
